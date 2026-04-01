@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+sqlalchemy
+matplotlib
+plotly
+scikit-learn
